@@ -1,1 +1,1 @@
-Testing GIT functionality,GUI TEST, testing for child branch 
+Testing GIT functionality,GUI TEST, testing for child branch, testing after creating new branch for child
